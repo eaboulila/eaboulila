@@ -42,3 +42,9 @@ I'm **El-Sayed**, a recent graduate with a Bachelor's degree in **Management Inf
 
 #### 🤝 Let's Connect:
 I am eager to apply my MIS knowledge and data analysis expertise in a collaborative environment where I can contribute to data-driven decision-making and help drive business success. I welcome discussions on how my skills and experience can benefit your team! 💬
+
+---
+
+### My GitHub Stats:
+
+![EL-Sayed Aboulila GitHub Stats](https://github-readme-stats.vercel.app/api?username=eaboulila&show_icons=true&count_private=true&theme=radical)
