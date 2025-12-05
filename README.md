@@ -2,10 +2,9 @@
 السلام عليكم ورحمة الله وبركاته
 </div>
 
-**Hi, I'm El-Sayed Aboulila 👋🏻: AI & Machine Learning Engineer**
-
-I’m an **AI & ML Engineer** passionate about building intelligent systems, developing end-to-end machine learning solutions, and applying deep learning to solve real-world problems.  
-I focus on model development, data pipelines, and deploying scalable AI systems.
+**Hi, I'm El-Sayed Aboulila an AI & Machine Learning Engineer**
+- I’m an **AI & ML Engineer** passionate about building intelligent systems, developing end-to-end machine learning solutions, and applying deep learning to solve real-world problems.  
+- I focus on model development, data pipelines, and deploying scalable AI systems.
 
 ## 🚀 About Me
 - Strong foundation in **Machine Learning**, **Deep Learning**, **Data Engineering**, and **Software Development**.  
