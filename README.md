@@ -61,7 +61,7 @@
 
 ## 🌐 Connect With Me  
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/eaboulila">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
