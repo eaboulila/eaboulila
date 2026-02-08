@@ -70,15 +70,3 @@
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 </p>
-
-<div align="center">
-
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=eaboulila&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=eaboulila&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eaboulila&theme=radical&hide_border=false&layout=compact)
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=eaboulila&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
