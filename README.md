@@ -1,24 +1,16 @@
 <div align="center">
-السلام عليكم ورحمة الله وبركاته
+<h1> السلام عليكم ورحمة الله وبركاته <h1>
 </div>
 
 **I'm Elsayed Aboulila, an AI & Machine Learning Engineer**
 - I’m an **AI & ML Engineer** passionate about building intelligent systems, developing end-to-end machine learning solutions, and applying deep learning to solve real-world problems.  
 - I focus on model development, data pipelines, and deploying scalable AI systems.
 
-## 🚀 About Me
+## About Me
 - Strong foundation in **Machine Learning**, **Deep Learning**, **Data Engineering**, and **Software Development**.  
 - Experienced in **training, optimizing, and deploying ML models** across various domains.  
 - Currently working on projects involving **computer vision**, **NLP**, **MLOps**, and **AI automation**.  
 - Passionate about researching new AI methods and improving practical model performance.
-
-## 🧠 Core Competencies
-- **Machine Learning Algorithms**  
-- **Deep Learning (CNNs, RNNs, Transformers)**  
-- **Model Optimization & Evaluation**  
-- **Data Engineering & ETL Pipelines**  
-- **AI Deployment (APIs, Cloud, Containers)**  
-- **MLOps & CI/CD for ML Systems**
 
 ## 🛠️ Technical Skills
 ### 🧬 Programming  
