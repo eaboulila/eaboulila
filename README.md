@@ -1,5 +1,5 @@
 <div align="center">
-<h1> السلام عليكم ورحمة الله وبركاته <h1>
+  <h1>السَّلَاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h1>
 </div>
 
 **I'm Elsayed Aboulila, an AI & Machine Learning Engineer**
